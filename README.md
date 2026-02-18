@@ -23,3 +23,6 @@ Strings - Installed on Linux already
 string file.exe | less
 ```
 
+
+
+
